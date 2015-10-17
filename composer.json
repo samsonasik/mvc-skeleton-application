@@ -1,0 +1,22 @@
+{
+  "name": "zf3buch/mvc-skeleton-application",
+  "description": "MVC Skeleton Application for the Zend Framework 3",
+  "license": "The MIT License (MIT)",
+  "authors": [
+    {
+      "name": "Ralf Eggert",
+      "email": "ralf@travello.de",
+      "homepage": "http://www.travello.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "zendframework/zendframework": "~2.5"
+  },
+  "require-dev": {
+    "zendframework/zend-developer-tools": "dev-master",
+    "bjyoungblood/bjy-profiler": "~1.0",
+    "san/san-session-toolbar": "~0.2"
+  }
+}
