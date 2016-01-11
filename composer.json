@@ -13,7 +13,7 @@
   "require": {
     "php": ">=5.5",
     "zendframework/zendframework": "~2.5",
-    "zf3buch/view-helper-module": "dev-master",
+    "ralfeggert/travello-view-helper": "~1.0",
     "rwoverdijk/assetmanager": "~1.4",
     "twitter/bootstrap": "~3.3",
     "fortawesome/font-awesome": "~4.4",

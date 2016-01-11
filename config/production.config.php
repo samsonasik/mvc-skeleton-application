@@ -12,7 +12,7 @@ return [
     'modules'                 => [
         'AssetManager',
         'Application',
-        'ZF3BuchViewHelper',
+        'TravelloViewHelper',
     ],
     'module_listener_options' => [
         'config_glob_paths'        => [

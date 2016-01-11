@@ -12,7 +12,7 @@ return [
     'modules'                 => [
         'AssetManager',
         'Application',
-        'ZF3BuchViewHelper',
+        'TravelloViewHelper',
         'ZendDeveloperTools',
         'BjyProfiler',
         'SanSessionToolbar',
